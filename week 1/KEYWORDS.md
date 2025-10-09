@@ -64,11 +64,3 @@ Cutting-edge studies connecting **Telecommunications**, **Network Systems**, and
 
 ---
 
-## یادداشت
-- این فایل می‌تواند به‌عنوان مرجع سریع (summary) برای پوشه‌ی `week 1` استفاده شود.
-- در صورت نیاز می‌تونم همین فایل رو با فرمت فارسی کامل‌تر یا انگلیسی با فرمت IEEE-bibliography به‌روز کنم.
-EOF
-
-git add "week 1/KEYWORDS.md"
-git commit -m "Add KEYWORDS.md for Week 1 (ML/AI in telecom & networking)"
-git push
