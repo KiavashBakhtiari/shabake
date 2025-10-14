@@ -1,4 +1,4 @@
-# 📡 Week 1 — Research Keywords & Papers
+# 📡 Week 2 — Research Keywords & Papers
 
 ---
 ### 🛰️ Paper 1: Anomaly Detection in Wireless Networks Using Machine Learning
