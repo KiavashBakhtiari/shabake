@@ -1,7 +1,6 @@
 # 📡 Week 1 — Research Keywords & Papers
 
 ---
-
 ### 🛰️ Paper 1: Anomaly Detection in Wireless Networks Using Machine Learning
 
 **Impact Factor:** 4  
